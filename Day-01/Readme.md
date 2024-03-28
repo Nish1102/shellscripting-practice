@@ -6,12 +6,14 @@ This is a simple shell script that lists all the files in a specified directory.
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/list-files-shell-script.git
+    git clone git clone https://github.com/Nish1102/shellscripting-practice.git
+
     ```
 
 2. **Navigate to the Directory:**
     ```bash
-    cd list-files-shell-script
+    cd  shellscripting-practice/Day-01
+
     ```
 
 3. **Make the Script Executable:**

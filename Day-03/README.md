@@ -1,5 +1,5 @@
 
-```markdown
+
 # Push and Build Script
 
 This shell script automates the process of pushing changes to a Git repository and triggering a build for a Jenkins job.
@@ -39,4 +39,3 @@ This shell script automates the process of pushing changes to a Git repository a
 
 - Make sure your Jenkins job is configured to monitor the repository and trigger builds automatically when changes are pushed.
 
-```
